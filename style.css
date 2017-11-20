@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+
+}
+
+header {
+  padding: 30px;
+  margin-bottom: 10px;
+  color: #333;
+  background: #ccc;
+}
+
+section {
+}
+
+#nav {
+  padding: 30px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+
+}
+
+#section {
+  float: right;
+width: 50%;
+padding: 60px;
+color: #333;
+background: #7FFFD4;
+}
+
+#aside {
+margin-top: 50px;
+width: 40%;
+float: right;
+padding: 60px;
+color: #333;
+background: #ccc;
+}
+
+
+
+
+footer {
+  background: #ccc;
+  margin-top: 30px;
+  padding: 30px;
+
+}
+
+.clearfix::after {
+  content: "";
+
+}
